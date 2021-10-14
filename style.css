@@ -1,0 +1,29 @@
+.body_background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: crimson;
+    font-size: 40px;
+    font-variant: small-caps;
+}
+#mycanvas{
+    border-width: 10px;
+    background-color: white;   
+    border-style: ridge;
+}
+span{
+    font-size: 25px;
+    font-weight: 100;
+    margin-left: 20px;
+}
+button{
+    background-color: lightgreen;
+    border: none;
+    color: black;
+    height :40px;
+    padding: 10px 42px;
+    border-radius: 10px;
+    font-size: 20px;
+}
